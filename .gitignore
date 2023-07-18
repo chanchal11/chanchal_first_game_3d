@@ -1,0 +1,33 @@
+# Unity-specific ignore rules
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Cache files
+/[Bb]uild/[Bb]uild[sS]ettings.asset
+/[Pp]ackages/
+/[Pp]rojectSettings.asset
+
+# Script metadata
+*.cs.meta
+
+# Image metadata
+*.png.meta
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Unity generated meta files
+*.meta
+
+# Unity generated file on crash reports
+sysinfo.txt
+
+# macOS folder attributes
+.AppleDouble
+.DS_Store
